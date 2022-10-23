@@ -1,0 +1,7 @@
+flutter_application_id:
+  android:
+    id: "com.hackathon.demovendor"
+    name: "Glover Vendor"
+  ios:
+    id: "com.hackathon.demovendor"
+    name: "Glover Vendor"
